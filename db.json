@@ -1,0 +1,32 @@
+{
+  "familyChores": [
+    {
+      "name": "Meila",
+      "startDate": "2023-06-28",
+      "dueDate": "2023-06-29",
+      "chore": "Laundry",
+      "id": 1
+    },
+    {
+      "name": "Ty",
+      "startDate": "2023-06-29",
+      "dueDate": "2023-06-29",
+      "chore": "Clean the grill",
+      "id": 2
+    },
+    {
+      "name": "Miles",
+      "startDate": "2023-07-02",
+      "dueDate": "2023-07-02",
+      "chore": "Take out the trash",
+      "id": 3
+    },
+    {
+      "name": "Mia",
+      "startDate": "2023-07-01",
+      "dueDate": "2023-07-01",
+      "chore": "Clean room",
+      "id": 4
+    }
+  ]
+}
