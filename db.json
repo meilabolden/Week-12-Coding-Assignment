@@ -27,6 +27,13 @@
       "dueDate": "2023-07-01",
       "chore": "Clean room",
       "id": 4
+    },
+    {
+      "name": "Meila",
+      "startDate": "2023-07-05",
+      "dueDate": "2023-07-05",
+      "chore": "Clean bathroom",
+      "id": 5
     }
   ]
 }
